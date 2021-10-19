@@ -2,12 +2,12 @@
  
 int main() {
  
-    int A, B, X;
-    scanf("%d",&A);
-    scanf("%d",&B);
-    X=A+B;
+    int y, k, x;
+    scanf("%d",&y);
+    scanf("%d",&k);
+    x=k+y;
     
-    printf("X = %d\n",X);
+    printf("X = %d\n",x);
     
     return 0;
 }
